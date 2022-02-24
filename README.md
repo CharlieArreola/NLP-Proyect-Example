@@ -17,4 +17,4 @@ Third, provide some prescriptive recommendations for product attributes Fi shoul
 - Interactive Dashboard (will not be Public for more than 14 days after this is published) Screenshot of the Dashboard are on the main pptx.<br>
 
 <br><br>
-Disclaimer: data scraping could be done only with beatiful soup tbh... but it really cool having selenium as an RPA making clicks and stuff for live presentations... ;)
+Disclaimer: data scraping could be done only with beatiful soup tbh... but it really looks cool having selenium as an RPA making clicks and stuff for live presentations... ;)
