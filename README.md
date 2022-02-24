@@ -10,7 +10,7 @@ Third, provide some prescriptive recommendations for product attributes Fi shoul
 
 <h2>Outline:</h2> <br>
 - Final Assigment.pptx for presentation.<br>
-- WebScrapping Amazon.ipynb Here you will find useful func for webscraping. Every step is commented so you everyone can have a look on it.<br>
+- WebScrapping Amazon.ipynb Here you will find useful func for webscraping. Every step is commented so you everyone can have a look on it. (find chrome webdriver attached for selenium)<br>
 - dw_NLP.ipynb a lot of basic but necessary steps for NLP, exploring your data to custom stop_words.<br>
 - modelSentimentAnalysis.ipynb basically the same nb as the last one but with Sentiment Analysis basics at the end.<br>
 - AMVO Public Version of consumer behavior report. To check how much mexicans expend on mascots.<br>
