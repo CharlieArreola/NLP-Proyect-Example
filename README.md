@@ -15,3 +15,6 @@ Third, provide some prescriptive recommendations for product attributes Fi shoul
 - modelSentimentAnalysis.ipynb basically the same nb as the last one but with Sentiment Analysis basics at the end.<br>
 - AMVO Public Version of consumer behavior report. To check how much mexicans expend on mascots.<br>
 - Interactive Dashboard (will not be Public for more than 14 days after this is published) Screenshot of the Dashboard are on the main pptx.<br>
+
+<br><br>
+Disclaimer: data scraping could be done only with beatiful soup tbh... but it really cool having selenium as an RPA making clicks and stuff for live presentations... ;)
